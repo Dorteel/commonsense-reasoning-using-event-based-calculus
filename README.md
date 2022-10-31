@@ -13,4 +13,13 @@ This repository contains my notes, exercise solutions and practice codes based o
 - Delayed effects and continuous change (the tap is left open and the sink fills up with water and overflows)
 - Reasoning: It takes a representation as an input, and outputs a representation
 
-Default reasoning: We assume a default (or normal) state of the world. Even though several exceptions might occur, the most usual (or most probable) state is considered to be the default state used for the *default reasoning*.
+**Default reasoning**: We assume a default (or normal) state of the world. Even though several exceptions might occur, the most usual (or most probable) state is considered to be the default state used for the *default reasoning*. The default assumption is that unexpected events do not occur.
+
+**Mental States**: Common sense assumes that if an agent has an unsatisfied goal, it will come up with a plan to achieve the goal.
+
+**Types of Reasoning**
+- *Prediction* (also called temporal projection): reasoning about states resulting from events
+- *Abduction* Given an initial state and a final state, the reasoning is done by forming a path of events.
+- *Postdiction*: Given events that lead to another state, we have to reason about the state prior to the events.
+
+### History of Commonsense Reasoning
